@@ -1,0 +1,30 @@
+{
+  "name": "modbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-endianness": "^1.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "modbus-serial": "^7.6.0",
+    "modbus-stream": "^0.44.0",
+    "modbus-tcp": "^0.4.13",
+    "mongoose": "^5.5.15",
+    "mongoose-float": "^1.0.4",
+    "ngx-modbus-tcp": "^1.0.3",
+    "node-modbus": "^4.3.1",
+    "request": "^2.88.0",
+    "simple-modbus": "^1.1.2",
+    "socket.io": "^2.2.0",
+    "websocket": "^1.0.28",
+    "ws": "^7.0.0"
+  }
+}
